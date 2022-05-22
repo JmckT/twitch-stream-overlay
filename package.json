@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "twitch-stream-overlay",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
@@ -36,3 +36,4 @@
     "cookie": "^0.4.1"
   }
 }
+
